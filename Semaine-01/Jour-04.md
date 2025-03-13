@@ -3,19 +3,19 @@
 ### Jeudi 13/03/2025
 
 ### Git et Github :
-- [ ] Créer son premier repo Github
-- [ ] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
+- [x] Créer son premier repo Github
+- [x] Faire ses première manipulations de versionning (init, push, add, commit, status, pull)
 
 ### Markdown :
-- [ ] Découverte du Markdown :
-  - [ ] Comprendre l'intérêt du Markdown
-  - [ ] Découvrir les balises de bases :
-    - [ ] Titres
+- [x] Découverte du Markdown :
+  - [x] Comprendre l'intérêt du Markdown
+  - [x] Découvrir les balises de bases :
+    - [x] Titres
     - [ ] Images
-    - [ ] Listes
-    - [ ] Formatage de texte (italique, souligné, gras)
+    - [x] Listes
+    - [x] Formatage de texte (italique, souligné, gras)
     - [ ] Code
-    - [ ] Citations
+    - [x] Citations
     - [ ] Tableaux
     - [ ] Liens
   - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
