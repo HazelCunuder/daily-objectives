@@ -11,19 +11,19 @@
   - [x] Comprendre l'intérêt du Markdown
   - [x] Découvrir les balises de bases :
     - [x] Titres
-    - [ ] Images
+    - [x] Images
     - [x] Listes
     - [x] Formatage de texte (italique, souligné, gras)
-    - [ ] Code
+    - [x] Code
     - [x] Citations
-    - [ ] Tableaux
-    - [ ] Liens
-  - [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+    - [x] Tableaux
+    - [x] Liens
+  - [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 
 ### Productivité :
 - [ ] Comprendre l'intérêt des raccourcis clavier
   - [ ] Découverte des raccourcis clavier de son système (Windows, Linux, Mac) :
-    - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
+cd     - [ ] Navigateur (fenêtres, onglets, navigation, etc …)
     - [ ] Terminal (fenêtres, onglets, commandes)
 - [ ] Commencer la rédaction en Markdown de ses cheat sheets dans un repo créé pour l'occasion (Terminal, Git, Raccourcis Clavier, Markdown)
 
