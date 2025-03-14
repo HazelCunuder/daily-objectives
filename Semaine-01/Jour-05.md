@@ -20,10 +20,10 @@
 ### Github
 
 - [ ] Pimper son profile Github (belle du village)
-- [ ] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
-- [ ] Découvrir l'interface de Github :
+- [x] Comprendre comment fonctionnent du chiffrement et des clés asymétriques
+- [x] Découvrir l'interface de Github :
   - [x] Pull Requests
   - [x] Branches
-  - [ ] Issues
+  - [x] Issues
   - [x] Settings projet
   - [x] Settings profile
