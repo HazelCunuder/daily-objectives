@@ -4,8 +4,8 @@
 
 ### Markdown
 
-- [ ] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
-  - [ ] Voici un Awesome README : <https://github.com/matiassingers/awesome-readme>
+- [x] Préparer un README.md générique qui caresse la rétine (à réutiliser pour tous vos prochains repos)
+  - [x] Voici un Awesome README : <https://github.com/matiassingers/awesome-readme>
 
 ### Git
 
@@ -25,5 +25,5 @@
   - [x] Pull Requests
   - [x] Branches
   - [ ] Issues
-  - [ ] Settings projet
+  - [x] Settings projet
   - [x] Settings profile
