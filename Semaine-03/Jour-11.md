@@ -4,15 +4,15 @@
 
 ### Maquettage
 
-- [ ] Découvrir le maquettage d'interface d'une application
-  - [ ] Comprendre la différence entre :
-    - [ ] Zoning
-    - [ ] Wireframe
-    - [ ] Mockup
-    - [ ] Maquette
+- [x] Découvrir le maquettage d'interface d'une application
+  - [x] Comprendre la différence entre :
+    - [x] Zoning
+    - [x] Wireframe
+    - [x] Mockup
+    - [x] Maquette
 - [x] Choix d'un outil de maquettage
 - [ ] Cadrer la demande client
-- [ ] Découvrir les règles ergonomiques et d'expérience utilisateur
+- [x] Découvrir les règles ergonomiques et d'expérience utilisateur
 
 ### HTML :
 
