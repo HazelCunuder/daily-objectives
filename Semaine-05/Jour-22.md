@@ -14,7 +14,7 @@
   - [ ] Wireframe des pages "Le Studio" et "Galerie"
   - [ ] Wireframe des pages "Tarifs" et "Blog"
   - [ ] Wireframe des pages "A propos" et "Contact"
-  - [ ] Définir la structure commune (header, footer, navigation) à toutes les pages
+  - [x] Définir la structure commune (header, footer, navigation) à toutes les pages
 
 - [x] Élaborer une charte graphique
   - [x] Définir une palette de couleurs harmonieuse avec coolors.co
