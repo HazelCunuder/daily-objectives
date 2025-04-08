@@ -16,10 +16,10 @@
   - [ ] Wireframe des pages "A propos" et "Contact"
   - [ ] Définir la structure commune (header, footer, navigation) à toutes les pages
 
-- [ ] Élaborer une charte graphique
+- [x] Élaborer une charte graphique
   - [x] Définir une palette de couleurs harmonieuse avec coolors.co
-  - [ ] Sélectionner des typographies adaptées à l'univers bébé/famille
-  - [ ] Établir les règles d'utilisation des couleurs et des polices
+  - [x] Sélectionner des typographies adaptées à l'univers bébé/famille
+  - [x] Établir les règles d'utilisation des couleurs et des polices
 
 - [ ] Mettre en place l'architecture du projet
   - [ ] Créer la structure de dossiers selon l'architecture SASS 7-1
