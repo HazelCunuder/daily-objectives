@@ -26,7 +26,7 @@
   - [x] Initialiser les fichiers SASS de base (variables, mixins, etc.)
   - [x] Configurer le système de compilation SASS
 
-- [ ] Commencer l'implémentation SASS
-  - [ ] Définir les variables pour les couleurs et polices
-  - [ ] Créer les premiers mixins essentiels
-  - [ ] Implémenter les styles de base
+- [x] Commencer l'implémentation SASS
+  - [x] Définir les variables pour les couleurs et polices
+  - [x] Créer les premiers mixins essentiels
+  - [x] Implémenter les styles de base
