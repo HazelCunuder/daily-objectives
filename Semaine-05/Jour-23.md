@@ -18,10 +18,10 @@
     - [x] Témoignages clients
     - [x] Footer avec coordonnées et navigation secondaire
 
-- [ ] Développer les pages "Le Studio" et "Galerie"
-  - [ ] Créer la page "Le Studio" selon le wireframe
-  - [ ] Développer la structure de la "Galerie" selon le wireframe
-  - [ ] Assurer la cohérence avec la page d'accueil
+- [x] Développer les pages "Le Studio" et "Galerie"
+  - [x] Créer la page "Le Studio" selon le wireframe
+  - [x] Développer la structure de la "Galerie" selon le wireframe
+  - [x] Assurer la cohérence avec la page d'accueil
 
 - [ ] Implémenter les premiers éléments avec Flexbox et Grid
   - [ ] Mettre en place la navigation avec Flexbox
