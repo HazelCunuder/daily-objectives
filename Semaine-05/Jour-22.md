@@ -9,11 +9,11 @@
   - [x] Identifier les contenus nécessaires pour les 7 pages
   - [x] Faire un benchmark rapide de sites similaires
 
-- [ ] Créer les wireframes de toutes les pages
-  - [ ] Wireframe de la page d'accueil
-  - [ ] Wireframe des pages "Le Studio" et "Galerie"
-  - [ ] Wireframe des pages "Tarifs" et "Blog"
-  - [ ] Wireframe des pages "A propos" et "Contact"
+- [x] Créer les wireframes de toutes les pages
+  - [x] Wireframe de la page d'accueil
+  - [x] Wireframe des pages "Le Studio" et "Galerie"
+  - [x] Wireframe des pages "Tarifs" et "Blog"
+  - [x] Wireframe des pages "A propos" et "Contact"
   - [x] Définir la structure commune (header, footer, navigation) à toutes les pages
 
 - [x] Élaborer une charte graphique
