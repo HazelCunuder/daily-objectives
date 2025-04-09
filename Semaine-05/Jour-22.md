@@ -21,10 +21,10 @@
   - [x] Sélectionner des typographies adaptées à l'univers bébé/famille
   - [x] Établir les règles d'utilisation des couleurs et des polices
 
-- [ ] Mettre en place l'architecture du projet
-  - [ ] Créer la structure de dossiers selon l'architecture SASS 7-1
-  - [ ] Initialiser les fichiers SASS de base (variables, mixins, etc.)
-  - [ ] Configurer le système de compilation SASS
+- [x] Mettre en place l'architecture du projet
+  - [x] Créer la structure de dossiers selon l'architecture SASS 7-1
+  - [x] Initialiser les fichiers SASS de base (variables, mixins, etc.)
+  - [x] Configurer le système de compilation SASS
 
 - [ ] Commencer l'implémentation SASS
   - [ ] Définir les variables pour les couleurs et polices
