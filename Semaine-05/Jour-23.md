@@ -4,10 +4,10 @@
 
 ### Brief "Baby Pics" - Structure HTML et approche CSS
 
-- [ ] Planifier l'approche CSS
-  - [ ] Utiliser Grid pour les layouts bidimensionnels (structure principale de la page, galeries)
-  - [ ] Réserver Flexbox pour les éléments alignés sur une seule dimension (menus, barres de navigation, listes)
-  - [ ] Définir une largeur fixe pour le site et ses éléments
+- [x] Planifier l'approche CSS
+  - [x] Utiliser Grid pour les layouts bidimensionnels (structure principale de la page, galeries)
+  - [x] Réserver Flexbox pour les éléments alignés sur une seule dimension (menus, barres de navigation, listes)
+  - [x] Définir une largeur fixe pour le site et ses éléments
 
 - [ ] Développer la page d'accueil
   - [ ] Créer la structure HTML sémantique selon le wireframe
