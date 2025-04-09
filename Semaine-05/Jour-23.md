@@ -9,14 +9,14 @@
   - [x] Réserver Flexbox pour les éléments alignés sur une seule dimension (menus, barres de navigation, listes)
   - [x] Définir une largeur fixe pour le site et ses éléments
 
-- [ ] Développer la page d'accueil
-  - [ ] Créer la structure HTML sémantique selon le wireframe
-  - [ ] Mettre en place :
-    - [ ] Header avec logo et navigation
-    - [ ] Section hero avec image et slogan
-    - [ ] Présentation des services (cartes ou sections)
-    - [ ] Témoignages clients
-    - [ ] Footer avec coordonnées et navigation secondaire
+- [x] Développer la page d'accueil
+  - [x] Créer la structure HTML sémantique selon le wireframe
+  - [x] Mettre en place :
+    - [x] Header avec logo et navigation
+    - [x] Section hero avec image et slogan
+    - [x] Présentation des services (cartes ou sections)
+    - [x] Témoignages clients
+    - [x] Footer avec coordonnées et navigation secondaire
 
 - [ ] Développer les pages "Le Studio" et "Galerie"
   - [ ] Créer la page "Le Studio" selon le wireframe
