@@ -4,14 +4,14 @@
 
 ### Brief "Baby Pics" - Pages secondaires et fonctionnalités
 
-- [ ] Développer les pages "Tarifs" et "Blog"
-  - [ ] Créer la page Tarifs selon le wireframe :
-    - [ ] Tableau des prix et prestations
-    - [ ] Description des forfaits
+- [x] Développer les pages "Tarifs" et "Blog"
+  - [x] Créer la page Tarifs selon le wireframe :
+    - [x] Tableau des prix et prestations
+    - [x] Description des forfaits
     - [ ] Options additionnelles
-  - [ ] Créer la page Blog selon le wireframe :
-    - [ ] Structure d'articles
-    - [ ] Système de catégories
+  - [x] Créer la page Blog selon le wireframe :
+    - [x] Structure d'articles
+    - [x] Système de catégories
     - [ ] Section commentaires
 
 - [ ] Développer les layouts avec CSS Grid
