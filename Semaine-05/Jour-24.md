@@ -19,11 +19,6 @@
   - [ ] Structurer la grille de présentation des forfaits/tarifs
   - [ ] Développer la mise en page pour les articles du blog
 
-- [ ] Développer les fonctionnalités interactives
-  - [ ] Ajouter un slider/carrousel pour les photos sur la page d'accueil
-  - [ ] Développer le formulaire de contact avec validation
-  - [ ] Créer une galerie filtrable par catégories (bébés, grossesses, naissances)
-
 - [ ] Améliorer l'apparence visuelle
   - [ ] Affiner les couleurs et contrastes selon la charte graphique
   - [ ] Appliquer la typographie de manière cohérente
