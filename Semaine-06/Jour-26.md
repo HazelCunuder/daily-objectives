@@ -4,9 +4,9 @@
 
 ### Brief "Baby Pics" - Polissage et optimisation
 
-- [ ] Réviser et optimiser le code SASS
-  - [ ] Vérifier la structure 7-1 et la cohérence
-  - [ ] Améliorer la lisibilité et la maintenance
+- [x] Réviser et optimiser le code SASS
+  - [x] Vérifier la structure 7-1 et la cohérence
+  - [x] Améliorer la lisibilité et la maintenance
 
 - [ ] Finaliser l'interface utilisateur
   - [ ] Polir les détails visuels (alignements, espacements)
