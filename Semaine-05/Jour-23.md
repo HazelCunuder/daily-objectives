@@ -23,7 +23,7 @@
   - [x] Développer la structure de la "Galerie" selon le wireframe
   - [x] Assurer la cohérence avec la page d'accueil
 
-- [ ] Implémenter les premiers éléments avec Flexbox et Grid
-  - [ ] Mettre en place la navigation avec Flexbox
-  - [ ] Structurer la galerie de photos avec Grid
-  - [ ] Appliquer les marges et espacements cohérents
+- [x] Implémenter les premiers éléments avec Flexbox et Grid
+  - [x] Mettre en place la navigation avec Flexbox
+  - [x] Structurer la galerie de photos avec Grid
+  - [x] Appliquer les marges et espacements cohérents
