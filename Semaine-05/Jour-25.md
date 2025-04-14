@@ -4,15 +4,15 @@
 
 ### Brief "Baby Pics" - Finalisation des pages et cohérence
 
-- [ ] Compléter les dernières pages
-  - [ ] Créer la page "A propos" selon le wireframe :
-    - [ ] Présentation de la photographe
-    - [ ] Parcours et expertise
-    - [ ] Philosophie et valeurs
-  - [ ] Créer la page "Contact" selon le wireframe :
-    - [ ] Formulaire de contact
-    - [ ] Informations de contact
-    - [ ] Plan d'accès au studio
+- [x] Compléter les dernières pages
+  - [x] Créer la page "A propos" selon le wireframe :
+    - [x] Présentation de la photographe
+    - [x] Parcours et expertise
+    - [x] Philosophie et valeurs
+  - [x] Créer la page "Contact" selon le wireframe :
+    - [x] Formulaire de contact
+    - [x] Informations de contact
+    - [x] Plan d'accès au studio
 
 - [ ] Optimiser l'expérience utilisateur
   - [ ] Améliorer la navigation entre toutes les pages
@@ -25,7 +25,7 @@
   - [ ] Vérifier les liens internes et la navigation
 
 - [ ] Revue de code et optimisation
-  - [ ] Nettoyer le code HTML et SASS
+  - [x] Nettoyer le code HTML et SASS
   - [ ] Vérifier la cohérence des nommages et de la structure
   - [ ] S'assurer que tout le code SASS est bien organisé selon l'architecture 7-1
   - [ ] Réaliser des tests cross-browser
