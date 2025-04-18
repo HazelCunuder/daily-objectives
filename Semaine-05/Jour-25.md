@@ -19,15 +19,15 @@
   - [ ] Affiner les interactions des éléments interactifs
   - [ ] Assurer la cohérence visuelle sur l'ensemble du site
 
-- [ ] Finaliser toutes les pages
-  - [ ] Vérifier que les 7 pages sont complètes et fonctionnelles
-  - [ ] S'assurer de la cohérence visuelle entre toutes les pages
-  - [ ] Vérifier les liens internes et la navigation
+- [x] Finaliser toutes les pages
+  - [x] Vérifier que les 7 pages sont complètes et fonctionnelles
+  - [x] S'assurer de la cohérence visuelle entre toutes les pages
+  - [x] Vérifier les liens internes et la navigation
 
 - [ ] Revue de code et optimisation
   - [x] Nettoyer le code HTML et SASS
-  - [ ] Vérifier la cohérence des nommages et de la structure
-  - [ ] S'assurer que tout le code SASS est bien organisé selon l'architecture 7-1
+  - [x] Vérifier la cohérence des nommages et de la structure
+  - [x] S'assurer que tout le code SASS est bien organisé selon l'architecture 7-1
   - [ ] Réaliser des tests cross-browser
 
 - [ ] Préparer la livraison (pour lundi)
