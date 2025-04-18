@@ -4,17 +4,17 @@
 
 ### Brief "Baby Pics" - Intégration et Affinement
 
-- [ ] Poursuivre l'intégration des pages
-  - [ ] Assurer la liaison entre les différentes sections
-  - [ ] Vérifier la cohérence de l'expérience utilisateur sur l'ensemble du site
+- [x] Poursuivre l'intégration des pages
+  - [x] Assurer la liaison entre les différentes sections
+  - [x] Vérifier la cohérence de l'expérience utilisateur sur l'ensemble du site
 
-- [ ] Affiner les styles SASS
-  - [ ] Reprendre les feuilles de style pour améliorer l'organisation
-  - [ ] Optimiser l'utilisation des variables et mixins
+- [x] Affiner les styles SASS
+  - [x] Reprendre les feuilles de style pour améliorer l'organisation
+  - [x] Optimiser l'utilisation des variables et mixins
 
-- [ ] Revoir les aspects fonctionnels
+- [x] Revoir les aspects fonctionnels
   - [ ] Tester à nouveau le formulaire de contact
-  - [ ] Vérifier le fonctionnement de la galerie ou du blog
+  - [x] Vérifier le fonctionnement de la galerie ou du blog
 
-- [ ] Préparation de la phase d'approfondissement
-  - [ ] Identifier les aspects spécifiques à améliorer (Jour 28) 
+- [x] Préparation de la phase d'approfondissement
+  - [x] Identifier les aspects spécifiques à améliorer (Jour 28) 
